@@ -1,7 +1,7 @@
 # Combining Coarse-Grained Molecular Dynamics with AlphaFold Prediction of Protein Interactions
 
 This repository contains scripts used for generating and analyzing coarse-grained (CG) simulations of protein aggregation, specifically focused on the study of Green Fluorescent Proteins (GFP). 
-
+ 
 The repository includes two main modules:
 
 1. Input Scripts: Scripts for generating non-bonded interaction parameters for different force fields (CALVADOS, COCOMO, and Trovato).
